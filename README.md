@@ -1,7 +1,6 @@
 # amazon_clone_tutorial
 
-A new Flutter project.
-
+# Developed By irtisam Ali
 
 ![image](https://user-images.githubusercontent.com/68317918/214839338-1589143a-a3ef-4765-8426-2641c49a40ec.png)
 ![image](https://user-images.githubusercontent.com/68317918/214839149-b1c2956d-ed3f-4fb5-9b5a-c3d15e82ace1.png)
